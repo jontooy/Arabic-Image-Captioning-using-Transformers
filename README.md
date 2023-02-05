@@ -50,6 +50,25 @@ The supplementary data files are the following:
 
 Please consider citing this paper if you use the models:
 ```
+@inproceedings{emami-etal-2022-arabic,
+    title = "{A}rabic Image Captioning using Pre-training of Deep Bidirectional Transformers",
+    author = "Emami, Jonathan  and
+      Nugues, Pierre  and
+      Elnagar, Ashraf  and
+      Afyouni, Imad",
+    booktitle = "Proceedings of the 15th International Conference on Natural Language Generation",
+    month = jul,
+    year = "2022",
+    address = "Waterville, Maine, USA and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.inlg-main.4",
+    pages = "40--51",
+    abstract = "",
+}
+```
+Or cite the original masterthesis:
+
+```
 @mastersthesis{emami2022aracap,
    author = {Jonathan Emami},
    title = {Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers},
