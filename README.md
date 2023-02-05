@@ -1,7 +1,7 @@
 # Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers
 
 ## Introduction
-This repository contains source code necessary to reproduce the results presented in the paper. It also contains a python notebook
+This repository contains source code necessary to reproduce the results presented in [the paper](https://aclanthology.org/2022.inlg-main.4/). It also contains a python notebook
 
 ## Datasets
 + **Flickr8k:** Image features, object tag labels (English and Arabic)  and captions available on [Huggingface](https://huggingface.co/datasets/jontooy/Flickr8k-Image-Features)
@@ -66,7 +66,7 @@ Please consider citing this paper if you use the models:
     abstract = "",
 }
 ```
-Or cite the original masterthesis:
+Or cite the original Master's thesis:
 
 ```
 @mastersthesis{emami2022aracap,
